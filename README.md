@@ -140,14 +140,6 @@
 + [禁用 SSH 远程主机的公钥检查](http://www.worldhello.net/2010/04/08/1026.html)
 
 
-## Git
-
-+ [创建SSH密钥对](http://daemon369.github.io/ssh/2015/03/08/generating-ssh-keys)
-
-
-
-
-
 ## 协议
 + [FastCGI规范中文](http://fuzhong1983.blog.163.com/blog/static/1684705201051002951763/)
 + [fastcgi协议分析与实例](http://blog.csdn.net/shreck66/article/details/50355729)
@@ -196,8 +188,12 @@
 ## Git
 + [Git详细教程](http://www.cnblogs.com/Genesisx/p/5556531.html)
 + [Git和Github简单教程](http://www.cnblogs.com/schaepher/p/5561193.html)
++ [创建SSH密钥对](http://daemon369.github.io/ssh/2015/03/08/generating-ssh-keys)
 
 
+## 安全
++ [CSRF攻击](https://www.cnblogs.com/hyddd/archive/2009/04/09/1432744.html)
++ [安全攻击相关](http://www.cnblogs.com/jaspersong/p/8365923.html)
 
 ## 论文
 + [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/mapreduce-osdi04.pdf) -- [MapReduce：面向大型集群的简化数据处理](http://www.cnblogs.com/fuzhe1989/p/3413457.html)
@@ -295,4 +291,5 @@
 
 ### Ubuntu
 + [ubuntu安装配置elasticSearch](http://www.linuxdiyf.com/linux/17529.html)
+
 
