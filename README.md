@@ -177,6 +177,7 @@
 
 ## 运维
 + [使用inotify/fswatch构建自动监控脚本](http://icodeit.org/2015/03/build-monitor-script-based-on-inotify/)
++ [自动化部署工具](http://www.ansible.com.cn/)
 
 ## 测试
 + [JMeter学习指南](https://wuyan.gitbooks.io/jmeter/content/)
@@ -293,5 +294,4 @@
 
 ### Ubuntu
 + [ubuntu安装配置elasticSearch](http://www.linuxdiyf.com/linux/17529.html)
-
 
